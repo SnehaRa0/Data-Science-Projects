@@ -1,0 +1,7 @@
+# Capestone_CV_Pneumonia_Detection
+A project exploring the computer vision application on diagnosing pneumonia from chest radiology reports.
+Pneumonia is a disease in which patients suffer with Lung infection. The most recent outbreak of COVID-19 is a classic example of pneumonia condition.
+ The primary endpoint will be the detection of bounding boxes corresponding to the diagnosis of pneumonia (e.g. lung infection) on chest radiographs, a special 2D high resolution grayscale medical image. Note that pnuemonia is just one of many possible disease processes that can occur on a chest radiograph, and that any given single image may contain 0, 1 or many boxes corresponding to possible pneumonia locations.
+In this model building activity, we are looking at both classification as well as detecting the lung opacities on the images using bounding boxes. This basically assists Physicians by automating the process of detecting Pneumonia condition in patients in the initial stages (if any).
+Basically, all lung opacities may not result in Pneumonia but detecting them may provide some evidence that a patient might get affected in near future or already affected. It is said and believed that prevention is better than cure.
+We use Kaggle to run our code. This is much faster and is more stable compared to Google colab. The input data need not be loaded everytime we run the project. But the only problem is we cannot save the results in .html format easily. So, we will include all the results in the report itself.
