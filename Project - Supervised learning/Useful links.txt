@@ -1,0 +1,5 @@
+Naive Bayes Classifier - https://towardsdatascience.com/naive-bayes-classifier-81d512f50a7c
+Logistic Regression - https://towardsdatascience.com/logistic-regression-detailed-overview-46c4da4303bc 
+Banking use cases - https://activewizards.com/blog/top-9-data-science-use-cases-in-banking/
+AI and ML in banking - https://thefinancialbrand.com/71350/ai-machine-learning-analytics-marketing-banking-trends/
+Stats vs ML by Kumar Muthuraman - https://attendee.gotowebinar.com/register/5981028095285742091 
